@@ -1,0 +1,5 @@
+# jupyter cache
+.ipynb_checkpoints
+
+# tex file
+tex/

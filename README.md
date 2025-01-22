@@ -1,6 +1,20 @@
 # Oh-Numpy
+
 [100 numpy exercises](https://github.com/rougier/numpy-100)中文版。
 
->有时候Github直接查看.ipynb文件会比较卡，可以在[nbviewer](https://nbviewer.jupyter.org/github/shenxiangzhuang/Oh-Numpy/blob/master/100%20Numpy%20Exercises.ipynb)查看此文件。
+注意Notebook文件在这里: [docs/100-Numpy-Exercises.ipynb](https://github.com/shenxiangzhuang/Oh-Numpy/blob/master/docs/100-Numpy-Exercises.ipynb).
 
-翻译错误或不当之处，需要改进之处，还请提issue指出。
+
+## 快速开始
+
+### 执行代码
+
+1. Install uv
+2. Clone the project
+3. Run `uv sync --all-extras --dev`
+4. Run `jupyter lab`
+5. Open `docs/100-Numpy-Exercises.ipynb` and run it
+
+### 在线阅读
+
+[https://datahonor.com/Oh-PyTorch/100-PyTorch-Exercises/](https://datahonor.com/Oh-Numpy/100-Numpy-Exercises/)

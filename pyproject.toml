@@ -1,0 +1,36 @@
+[project]
+name = "oh-numpy"
+version = "0.1.0"
+description = "The chinese solutions for numpy-100 exercises"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "numpy>=2.2.1",
+]
+
+[project.optional-dependencies]
+dev = [
+  "jupyterlab>=4.3.4",
+  "ipython>=8.31.0",
+  "ruff>=0.9.0",
+]
+docs = [
+    "mkdocs",
+    "mkdocs-material",
+    "mkdocs-material-extensions",
+    "mkdocstrings",
+    "mkdocs-bibtex",
+    "mkdocstrings-python",
+    "mkdocs-autorefs",
+    "mkdocs-git-committers-plugin-2",
+    "mkdocs-git-revision-date-localized-plugin",
+    "mkdocs-jupyter",
+]
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu121" }
+
+[[tool.uv.index]]
+name = "pytorch-cu121"
+url = "https://download.pytorch.org/whl/cu121"
+explicit = true

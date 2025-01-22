@@ -17,4 +17,4 @@
 
 ### 在线阅读
 
-- [https://datahonor.com/Oh-PyTorch/100-PyTorch-Exercises/](https://datahonor.com/Oh-Numpy/100-Numpy-Exercises/)
+[https://datahonor.com/Oh-PyTorch/100-PyTorch-Exercises/](https://datahonor.com/Oh-Numpy/100-Numpy-Exercises/)

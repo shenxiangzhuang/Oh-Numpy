@@ -2,7 +2,7 @@
 
 [100 numpy exercises](https://github.com/rougier/numpy-100)中文版。
 
-注意Notebook文件治啊: [docs/100-Numpy-Exercises.ipynb](https://github.com/shenxiangzhuang/Oh-Numpy/blob/master/docs/100-Numpy-Exercises.ipynb).
+注意Notebook文件在这里: [docs/100-Numpy-Exercises.ipynb](https://github.com/shenxiangzhuang/Oh-Numpy/blob/master/docs/100-Numpy-Exercises.ipynb).
 
 
 ## 快速开始
